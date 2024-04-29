@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KonwersjaLiczb", "KonwersjaLiczb.csproj", "{D44A71D2-63FC-4724-9622-07CA249A44EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D44A71D2-63FC-4724-9622-07CA249A44EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44A71D2-63FC-4724-9622-07CA249A44EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44A71D2-63FC-4724-9622-07CA249A44EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44A71D2-63FC-4724-9622-07CA249A44EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B635C5BA-22ED-4019-AB21-0A1B7DEA60D4}
+	EndGlobalSection
+EndGlobal
